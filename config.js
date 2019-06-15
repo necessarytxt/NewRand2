@@ -5,8 +5,8 @@
 */
 var musicData =[
   { name: '恋愛サーキュレーション', url: 'love_loop.mp3'},
-  { name: 'Ifの世界設定', url: 'If.mp3'},
-  { name: 'LOL登录曲', url: 'LOL.mp3'}
+  { name: 'crossing field ', url: 'If.mp3'},
+  { name: 'LOL S2', url: 'LOL.mp3'}
 ];
 
 var stuData = `
