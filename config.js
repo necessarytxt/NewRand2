@@ -12,7 +12,6 @@ var musicData =[
 var stuData =`
 蒋淑,
 王琮瑞,
-郭靖,
 杨亚铮,
 杨雯博,
 苏熙航,
