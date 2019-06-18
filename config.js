@@ -9,8 +9,8 @@ var musicData =[
   { name: 'LOL S2', url: 'LOL.mp3'}
 ];
 
-var stuData =
-`蒋淑,
+var stuData =`
+蒋淑,
 王琮瑞,
 郭靖,
 杨亚铮,
